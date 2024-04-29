@@ -1,0 +1,8 @@
+easyocr==1.7.1
+numpy==1.24.2
+opencv-python-headless==4.8.1.78
+pandas==1.5.3
+Pillow==9.4.0
+torch==2.1.1
+torchaudio==2.1.1
+torchvision==0.16.1
