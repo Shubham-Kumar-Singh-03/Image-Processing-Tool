@@ -1,4 +1,4 @@
-# Image Enhancement Tool with OpenCV, Streamlit, and EasyOCR
+# Image Processing Tool with OpenCV, Streamlit, and EasyOCR
 
 This project is an **Image Enhancement Tool** that leverages **OpenCV**, **Streamlit**, and **EasyOCR** to offer various image processing features. With this tool, users can enhance images by performing operations like sharpening, smoothening, denoising, contrast & brightness adjustment, and histogram equalization. Additionally, the tool includes **text extraction** capabilities using the **EasyOCR** library.
 
